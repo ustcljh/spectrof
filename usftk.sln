@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libusf_cs", "libusf\libusf_cs.csproj", "{4029A56D-E484-4EA1-A2B3-1477013880F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usfgui", "usfgui\usfgui.csproj", "{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{4029A56D-E484-4EA1-A2B3-1477013880F6}.Release|x64.Build.0 = Release|Any CPU
 		{4029A56D-E484-4EA1-A2B3-1477013880F6}.Release|x86.ActiveCfg = Release|Any CPU
 		{4029A56D-E484-4EA1-A2B3-1477013880F6}.Release|x86.Build.0 = Release|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Debug|x64.Build.0 = Debug|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Debug|x86.Build.0 = Debug|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Release|x64.ActiveCfg = Release|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Release|x64.Build.0 = Release|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Release|x86.ActiveCfg = Release|Any CPU
+		{56A0E68D-0B6B-4F32-B77E-258568BF3FE9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
